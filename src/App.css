@@ -1,12 +1,2 @@
-.cards{
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  margin-top:5vh;
-}
-.column1{
-  display: flex;
-  flex-direction: column;
-}
+
   
